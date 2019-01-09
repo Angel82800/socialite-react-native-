@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./imgs/react-native.png" height="200"/>
+</p>
+
 # Socialite
 > Mobile social coordination prototype built with React Native and Firebase
 
